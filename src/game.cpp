@@ -32,7 +32,3 @@ void Game::Loop()
         window_.display();
     }
 }
-
-void Game::Destroy()
-{
-}
